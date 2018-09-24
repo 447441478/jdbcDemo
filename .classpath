@@ -10,5 +10,10 @@
 	<classpathentry kind="lib" path="lib/ooxml-lib/geronimo-stax-api_1.0_spec-1.0.jar"/>
 	<classpathentry kind="lib" path="lib/ooxml-lib/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="lib/dbcp/apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/dbcp/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0/c3p0-0.9.1.2.jar" sourcepath="D:/jar包/mysql/c3p0-master/src"/>
+	<classpathentry kind="lib" path="lib/dbUtils/commons-dbutils-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/dbUtils/commons-dbutils-ext.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
